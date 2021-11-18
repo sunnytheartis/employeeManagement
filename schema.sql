@@ -1,4 +1,4 @@
-employee.sql
+
 
 -- Drops the employees_db if it exists currently --
 DROP DATABASE IF EXISTS employees_db;
